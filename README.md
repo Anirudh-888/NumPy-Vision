@@ -25,11 +25,11 @@ The main objectives of NumPyVision are to:
 ### Phase 1: Image Representation
 
 * [x] Create an RGB image using a NumPy array
-* [ ] Understand image dimensions and color channels
-* [ ] Inspect `shape`, `ndim`, `size`, and `dtype`
-* [ ] Access individual pixels
-* [ ] Modify individual pixels
-* [ ] Understand pixel intensity values
+* [X] Understand image dimensions and color channels
+* [X] Inspect `shape`, `ndim`, `size`, and `dtype`
+* [X] Access individual pixels
+* [X] Modify individual pixels
+* [] Understand pixel intensity values
 
 ### Phase 2: Pixel Manipulation
 
