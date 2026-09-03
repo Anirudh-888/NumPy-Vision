@@ -29,21 +29,21 @@ The main objectives of NumPyVision are to:
 * [X] Inspect `shape`, `ndim`, `size`, and `dtype`
 * [X] Access individual pixels
 * [X] Modify individual pixels
-* [] Understand pixel intensity values
+* [X] Understand pixel intensity values
 
 ### Phase 2: Pixel Manipulation
 
-* [ ] Modify RGB channels
-* [ ] Select image regions using slicing
-* [ ] Crop images
-* [ ] Flip images
-* [ ] Replace pixels based on conditions
-* [ ] Apply basic color transformations
+* [X] Modify RGB channels
+* [X] Select image regions using slicing
+* [X] Crop images
+* [X] Flip images
+* [X] Replace pixels based on conditions
+* [X] Apply basic color transformations
 
 ### Phase 3: Image Transformations
 
-* [ ] Convert RGB images to grayscale
-* [ ] Adjust brightness
+* [X] Convert RGB images to grayscale
+* [X] Adjust brightness
 * [ ] Adjust contrast
 * [ ] Manipulate individual color channels
 * [ ] Implement transformations using vectorized NumPy operations
