@@ -166,9 +166,9 @@ Apply efficient NumPy operations to process complete images without manually ite
 
 ### Numerical Image Transformations
 
-- [ ] Adjust image contrast
-- [ ] Apply vectorized color transformations
-- [ ] Apply numerical operations to complete images
+- [X] Adjust image contrast
+- [] Apply vectorized color transformations
+- [] Apply numerical operations to complete images
 
 ---
 
